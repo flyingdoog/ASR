@@ -3,7 +3,6 @@ This is a Tensorflow implementation of the paper: Attentive Social Recommendatio
 
 Preprint, https://arxiv.org/abs/2011.04797
 
-To be filled later.
 
 ```
 @article{luo2020attentive,
